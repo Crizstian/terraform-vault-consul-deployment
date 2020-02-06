@@ -40,6 +40,13 @@ Recovery Key 3: wcFMAzcRSDoJGe96ARAAe1wMXY5MusJTJD9uIW8olJDujpwawh1bTtAEZ5LVqiFN
 Initial Root Token: s.0AvlBwJJQdIqPklj1ZH586jc
 ``
 
+### Enabling Audit Log File device
+
+```
+vault audit enable syslog tag="vault" facility="LOCAL7"
+Success! Enabled the syslog audit device at: syslog/
+```
+
 ### Database Dynamic Secrets Configuration
 Database Dynamic secrets were enabled in order to work with the flask application following the steps below, for the MySQL/MariaDB database.
 
