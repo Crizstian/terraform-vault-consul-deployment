@@ -1,4 +1,4 @@
-# Sparkly Sprokets
+# Veridian Dynamics
 
 <img src="https://www.digitalonus.com/wp-content/uploads/2019/06/digital_on_us_logo.png" width="300"><br>
 <img src="https://cdn.worldvectorlogo.com/logos/hashicorp.svg" width="150">
